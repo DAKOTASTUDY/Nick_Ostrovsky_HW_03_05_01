@@ -49,6 +49,7 @@ int main()
     std::cout << "\n" << a.get_name() << "\t" << a.side_out() << std::endl;
     std::cout << "\n" << b.get_name() << "\t" << b.side_out() << std::endl;
     std::cout << "\n" <<c.get_name() << "\t\t" << c.side_out() << std::endl;
+   
     return 0;
 }
 
